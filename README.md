@@ -1,7 +1,7 @@
 [![@yashbhanushali's Holopin board](https://holopin.me/yashbhanushali)](https://holopin.io/@yashbhanushali)
 
 <h1 align="center">Hi 👋, I'm Yash Bhanushali</h1>
-<h3 align="center">An Aspiring Full Stack Developer from India</h3>
+<h3 align="center">A Full Stack Developer from India</h3>
 
 - 🔭 I’m currently working on **Full Stack Development**
 
